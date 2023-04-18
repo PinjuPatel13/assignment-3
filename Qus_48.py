@@ -6,7 +6,7 @@ def factorial(x):
     a=math.factorial(x)
     return a
 
-result=5
+result=8
 print(factorial(result))
 
 
